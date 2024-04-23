@@ -54,7 +54,6 @@ Github Actions:
     plugin: apko
     args: |
       setup
-    working-directory: example
 - name: Show apko version
   run: |
     type apko
