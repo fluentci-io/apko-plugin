@@ -1,5 +1,6 @@
 # Apko Plugin
 
+[![fluentci pipeline](https://shield.fluentci.io/x/apko)](https://pkg.fluentci.io/apko)
 [![ci](https://github.com/fluentci-io/apko-plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/fluentci-io/apko-plugin/actions/workflows/ci.yml)
 
 This plugin sets up your CI/CD pipeline with a specific version of [apko](https://github.com/chainguard-dev/apko).
